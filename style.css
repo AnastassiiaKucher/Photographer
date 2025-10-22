@@ -1,0 +1,22 @@
+.navbar{
+    font-family: 'Roboto', sans-serif;
+}
+
+@media all and (max-width: 500px) {
+    .imgg{
+        width: 330px;
+    }
+}
+
+
+@media all and (max-width: 768px) {
+    .imgg{
+        width: 240px;
+    }
+}
+
+@media all and (max-width: 1024px) {
+    .imgg{
+        width: 240px;
+    }
+}
